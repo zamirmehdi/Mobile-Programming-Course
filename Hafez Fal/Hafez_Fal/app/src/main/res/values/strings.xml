@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Hafez Fal</string>
+    <string name="button_name">فال حافظ</string>
+    <string name="button2_name">درباره برنامه</string>
+    <string name="intro_text">
+        ای حافظ شیرازی تو محرم هر رازی\n
+        تو را به خدا و شاخ نباتت قسم\n
+        هر چه صلاح و مصلحت می‌بینی\n
+        بگویی و برایم آشکار سازی\n
+
+\n\n
+        نیت کنید و بر دکمه اشاره بفرمایید!
+    </string>
+</resources>
