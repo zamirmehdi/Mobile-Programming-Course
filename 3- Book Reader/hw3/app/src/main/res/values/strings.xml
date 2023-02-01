@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Books</string>
+
+    <string name="title1">The Zahir</string>
+    <string name="title2">The Alchemist</string>
+    <string name="title3">Deep Work</string>
+    <string name="title4">Parallel Worlds</string>
+    <string name="title5">No Excuses!</string>
+
+    <string name="author1">Paulo Coelho</string>
+    <string name="author2">Paulo Coelho</string>
+    <string name="author3">Cal Newport</string>
+    <string name="author4">Michio Kaku</string>
+    <string name="author5">Brian Tracy</string>
+
+    <string name="pub1">Harper Perennial</string>
+    <string name="pub2">HarperTorch</string>
+    <string name="pub3">Grand Central Publishing</string>
+    <string name="pub4">Doubleday</string>
+    <string name="pub5">Hachette Books</string>
+
+    <string name="year1">2005</string>
+    <string name="year2">1988</string>
+    <string name="year3">2016</string>
+    <string name="year4">2004</string>
+    <string name="year5">2010</string>
+
+    <string name="version1">1.0</string>
+    <string name="version2">2.0</string>
+    <string name="version3">4.0</string>
+    <string name="version4">3.0</string>
+    <string name="version5">5.0</string>
+
+    <string name="summary1">The Zahir means the "obvious" or "conspicuous" in Arabic. The story revolves around the life of the narrator, a bestselling novelist, and in particular his search for his missing wife, Esther. He enjoys all the privileges that money and celebrity bring. He is suspected of foul play by both the police and the press, who suspect that he may have had a role in the inexplicable disappearance of his wife from their Paris home.</string>
+    <string name="summary2">An Andalusian shepherd boy named Santiago dreams of a treasure while in a ruined church. He consults a Gypsy fortune-teller about the meaning of the recurring dream. The woman interprets it as a prophecy, telling the boy that he will discover a treasure at the Egyptian pyramids.</string>
+    <string name="summary3">Newport defines deep work as, “Professional activities performed in a state of distraction-free concentration that push your cognitive capabilities to their limit.” Similar to the way muscular strain created by working out helps grow physical strength, we need a state of mental strain to improve our cognitive abilities.</string>
+    <string name="summary4">In this thrilling journey into the mysteries of our cosmos, bestselling author Michio Kaku takes us on a dizzying ride to explore black holes and time machines, multidimensional space and, most tantalizing of all, the possibility that parallel universes may lay alongside our own.</string>
+    <string name="summary5">No Excuses! teaches us that self-discipline is the key to success and gives us practical advice to master it and achieve self-actualization, happy relationships, and financial security. We all need financial security, self-realization, and fulfilling relationships to be happy.</string>
+
+
+</resources>

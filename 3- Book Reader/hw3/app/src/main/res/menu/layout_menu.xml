@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_switch_layout"
+        android:title="@string/app_name"
+        android:icon="@drawable/grid_three_up_xxl"
+        app:showAsAction="always"
+    />
+
+</menu>
