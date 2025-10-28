@@ -19,7 +19,7 @@
 
 ## 📘 Overview
 
-A collection of **5 Android applications** developed using **Kotlin** as part of the Mobile Programming course. Each project demonstrates progressive skill development in Android development, from basic UI layouts to advanced features like API integration and MVVM architecture.
+A collection of **5 Android applications** — Personal Card, Hafez Fal, Book Reader, Currency Exchange, and Weather Forecast developed using **Kotlin** as part of the Mobile Programming course. Each project demonstrates progressive skill development in Android development, from basic UI layouts to advanced features like API integration and MVVM architecture.
 
 **Key Features:**
 - Native Android development with Kotlin
