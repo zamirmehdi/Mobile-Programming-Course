@@ -9,7 +9,7 @@
   - [3. Book Reader](#3-book-reader)
   - [4. Currency Exchange](#4-currency-exchange)
   - [5. Weather Forecast](#5-weather-forecast)
-- [Technologies Used](#-technologies-used)
+- [Technologies Used](%EF%B8%8F-technologies-used)
 - [Installation & Setup](#%EF%B8%8F-installation--setup)
 - [Learning Outcomes](#-learning-outcomes)
 - [Project Information](#%E2%84%B9%EF%B8%8F-project-information)
@@ -46,8 +46,11 @@ A collection of **5 Android applications** developed using **Kotlin** as part of
 - ImageView and TextViews
 - Basic Android UI components
 
-📁 **Path:** `1- Personal Card/Personal_card/`  
-📸 **Screenshots:** Available in `screen shots/` folder
+📁 **Path:** `1- Personal Card/Personal_card/`
+
+<div align="center">
+  <img src="1- Personal Card/screan shots/Program_view.png" alt="Personal Card Screenshot" width="300"/>
+</div>
 
 ---
 
@@ -67,8 +70,18 @@ A collection of **5 Android applications** developed using **Kotlin** as part of
 - Random data generation
 
 📁 **Path:** `2- Hafez Fal/Hafez_Fal/`  
-📦 **APK:** Available in project folder  
-📸 **Screenshots:** 5 screenshots showing app flow
+📦 **APK:** Available in project folder
+
+<div align="center">
+  <img src="2- Hafez Fal/screen shots/intro.png" alt="Hafez Fal Intro" width="250"/>
+  <img src="2- Hafez Fal/screen shots/fal1.png" alt="Hafez Fal 1" width="250"/>
+  <img src="2- Hafez Fal/screen shots/fal2.png" alt="Hafez Fal 2" width="250"/>
+</div>
+
+<div align="center">
+  <img src="2- Hafez Fal/screen shots/info.png" alt="Hafez Info" width="250"/>
+  <img src="2- Hafez Fal/screen shots/Apps list.png" alt="Apps List" width="250"/>
+</div>
 
 ---
 
@@ -98,8 +111,19 @@ A collection of **5 Android applications** developed using **Kotlin** as part of
 - Parallel Worlds
 
 📁 **Path:** `3- Book Reader/hw3/`  
-📦 **APK:** `app-debug.apk`  
-📸 **Screenshots:** 6 screenshots showing features
+📦 **APK:** `app-debug.apk`
+
+<div align="center">
+  <img src="3- Book Reader/screen shots/sc1.png" alt="Book Reader Grid View" width="250"/>
+  <img src="3- Book Reader/screen shots/sc2.png" alt="Book Reader List View" width="250"/>
+  <img src="3- Book Reader/screen shots/sc3.png" alt="Book Detail" width="250"/>
+</div>
+
+<div align="center">
+  <img src="3- Book Reader/screen shots/sc4.png" alt="Book Detail 2" width="250"/>
+  <img src="3- Book Reader/screen shots/sc5.png" alt="Book List" width="250"/>
+  <img src="3- Book Reader/screen shots/sc6.png" alt="Book Grid" width="250"/>
+</div>
 
 ---
 
@@ -120,8 +144,18 @@ A collection of **5 Android applications** developed using **Kotlin** as part of
 - ExchangeViewModel class
 
 📁 **Path:** `4- Currency Exchange/HW4/`  
-📦 **APK:** `app-debug.apk`  
-📸 **Screenshots:** 5 screenshots
+📦 **APK:** `app-debug.apk`
+
+<div align="center">
+  <img src="4- Currency Exchange/screen shots/1.png" alt="Currency Exchange 1" width="250"/>
+  <img src="4- Currency Exchange/screen shots/2.png" alt="Currency Exchange 2" width="250"/>
+  <img src="4- Currency Exchange/screen shots/3.png" alt="Currency Exchange 3" width="250"/>
+</div>
+
+<div align="center">
+  <img src="4- Currency Exchange/screen shots/4.png" alt="Currency Exchange 4" width="250"/>
+  <img src="4- Currency Exchange/screen shots/5.png" alt="Currency Exchange 5" width="250"/>
+</div>
 
 ---
 
@@ -152,8 +186,19 @@ A collection of **5 Android applications** developed using **Kotlin** as part of
 
 📁 **Path:** `5- Weather Forcast/HW5/`  
 📦 **APK:** `app-debug.apk`  
-📸 **Screenshots:** 6 images + video demo  
-🎥 **Video:** `record screen.webm`
+🎥 **Demo Video:** `record screen.webm`
+
+<div align="center">
+  <img src="5- Weather Forcast/screen shots/0.png" alt="Weather Forecast Splash" width="250"/>
+  <img src="5- Weather Forcast/screen shots/1.png" alt="Weather Forecast 1" width="250"/>
+  <img src="5- Weather Forcast/screen shots/2.png" alt="Weather Forecast 2" width="250"/>
+</div>
+
+<div align="center">
+  <img src="5- Weather Forcast/screen shots/3.png" alt="Weather Forecast 3" width="250"/>
+  <img src="5- Weather Forcast/screen shots/4.png" alt="Weather Forecast 4" width="250"/>
+  <img src="5- Weather Forcast/screen shots/5.png" alt="Weather Forecast 5" width="250"/>
+</div>
 
 ## 🛠️ Technologies Used
 
