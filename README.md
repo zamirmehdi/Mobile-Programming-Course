@@ -9,7 +9,7 @@
   - [3. Book Reader](#3-book-reader)
   - [4. Currency Exchange](#4-currency-exchange)
   - [5. Weather Forecast](#5-weather-forecast)
-- [Technologies Used](%EF%B8%8F-technologies-used)
+- [Technologies Used](#%EF%B8%8F-technologies-used)
 - [Installation & Setup](#%EF%B8%8F-installation--setup)
 - [Learning Outcomes](#-learning-outcomes)
 - [Project Information](#%E2%84%B9%EF%B8%8F-project-information)
@@ -189,25 +189,32 @@ A collection of **5 Android applications** developed using **Kotlin** as part of
 🎥 **Demo Video:** `record screen.webm`
 
 <div align="center">
-  <img src="5- Weather Forecast/screen shots/0.png" alt="Weather Forecast Splash" width="250"/>
-  <img src="5- Weather Forecast/screen shots/1.png" alt="Weather Forecast 1" width="250"/>
-  <img src="5- Weather Forecast/screen shots/2.png" alt="Weather Forecast 2" width="250"/>
+  <img src="5- Weather Forecast/screen shots/0.png" alt="Weather Forecast Splash" width="150"/>
+  <img src="5- Weather Forecast/screen shots/1.png" alt="Weather Forecast 1" width="150"/>
+  <img src="5- Weather Forecast/screen shots/2.png" alt="Weather Forecast 2" width="150"/>
+<!-- </div>
+
+<div align="center"> -->
+  <img src="5- Weather Forecast/screen shots/3.png" alt="Weather Forecast 3" width="150"/>
+  <img src="5- Weather Forecast/screen shots/4.png" alt="Weather Forecast 4" width="150"/>
+  <img src="5- Weather Forecast/screen shots/5.png" alt="Weather Forecast 5" width="150"/>
 </div>
 
 <div align="center">
-  <img src="5- Weather Forecast/screen shots/3.png" alt="Weather Forecast 3" width="250"/>
-  <img src="5- Weather Forecast/screen shots/4.png" alt="Weather Forecast 4" width="250"/>
-  <img src="5- Weather Forecast/screen shots/5.png" alt="Weather Forecast 5" width="250"/>
+  <br/>
+<img src="5- Weather Forecast/screen shots/record screen GIF.gif" alt="Weather Forecast 6" width="900"/>
 </div>
+
+<!-- ![Sample Run]('5- Weather Forecast/screen shots/record screen GIF.gif')
 
 <div align="center">
   <br/>
   <a href="5- Weather Forecast/screen shots/record screen.webm">
-    <img src="5- Weather Forecast/screen shots/2.png" alt="Click to watch demo video" width="300"/>
+    <img src="5- Weather Forecast/screen shots/2.png" alt="Click to watch demo video" width="150"/>
   </a>
   <br/>
   <b>🎥 Click image above to watch full demo video</b>
-</div>
+</div> -->
 
 ## 🛠️ Technologies Used
 
