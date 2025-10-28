@@ -49,7 +49,7 @@ A collection of **5 Android applications** developed using **Kotlin** as part of
 📁 **Path:** `1- Personal Card/Personal_card/`
 
 <div align="center">
-  <img src="1- Personal Card/screan shots/Program_view.png" alt="Personal Card Screenshot" width="300"/>
+  <img src="1- Personal Card/screen shots/Program_view.png" alt="Personal Card Screenshot" width="300"/>
 </div>
 
 ---
@@ -184,26 +184,26 @@ A collection of **5 Android applications** developed using **Kotlin** as part of
 - `WeatherItemAdapter.kt` - RecyclerView adapter
 - Multiple data classes for JSON mapping
 
-📁 **Path:** `5- Weather Forcast/HW5/`  
+📁 **Path:** `5- Weather Forecast/HW5/`  
 📦 **APK:** `app-debug.apk`  
 🎥 **Demo Video:** `record screen.webm`
 
 <div align="center">
-  <img src="5- Weather Forcast/screen shots/0.png" alt="Weather Forecast Splash" width="250"/>
-  <img src="5- Weather Forcast/screen shots/1.png" alt="Weather Forecast 1" width="250"/>
-  <img src="5- Weather Forcast/screen shots/2.png" alt="Weather Forecast 2" width="250"/>
+  <img src="5- Weather Forecast/screen shots/0.png" alt="Weather Forecast Splash" width="250"/>
+  <img src="5- Weather Forecast/screen shots/1.png" alt="Weather Forecast 1" width="250"/>
+  <img src="5- Weather Forecast/screen shots/2.png" alt="Weather Forecast 2" width="250"/>
 </div>
 
 <div align="center">
-  <img src="5- Weather Forcast/screen shots/3.png" alt="Weather Forecast 3" width="250"/>
-  <img src="5- Weather Forcast/screen shots/4.png" alt="Weather Forecast 4" width="250"/>
-  <img src="5- Weather Forcast/screen shots/5.png" alt="Weather Forecast 5" width="250"/>
+  <img src="5- Weather Forecast/screen shots/3.png" alt="Weather Forecast 3" width="250"/>
+  <img src="5- Weather Forecast/screen shots/4.png" alt="Weather Forecast 4" width="250"/>
+  <img src="5- Weather Forecast/screen shots/5.png" alt="Weather Forecast 5" width="250"/>
 </div>
 
 <div align="center">
   <br/>
-  <a href="5- Weather Forcast/screen shots/record screen.webm">
-    <img src="5- Weather Forcast/screen shots/2.png" alt="Click to watch demo video" width="300"/>
+  <a href="5- Weather Forecast/screen shots/record screen.webm">
+    <img src="5- Weather Forecast/screen shots/2.png" alt="Click to watch demo video" width="300"/>
   </a>
   <br/>
   <b>🎥 Click image above to watch full demo video</b>
