@@ -200,6 +200,15 @@ A collection of **5 Android applications** developed using **Kotlin** as part of
   <img src="5- Weather Forcast/screen shots/5.png" alt="Weather Forecast 5" width="250"/>
 </div>
 
+<div align="center">
+  <br/>
+  <a href="5- Weather Forcast/screen shots/record screen.webm">
+    <img src="5- Weather Forcast/screen shots/2.png" alt="Click to watch demo video" width="300"/>
+  </a>
+  <br/>
+  <b>🎥 Click image above to watch full demo video</b>
+</div>
+
 ## 🛠️ Technologies Used
 
 | Category | Technologies |
